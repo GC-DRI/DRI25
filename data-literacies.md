@@ -465,8 +465,6 @@ This brings us to several questions:
 
 The definitions of terms such as "human" and "public" are ambiguous. They are dependent on the forms of data, the context of the data, and the relationship of the data to the source and the researcher. 
 
-We return to our data set [Research_Data_DRI24.csv](https://raw.githubusercontent.com/GC-DRI/DRI24/main/uploads/data-literacies/Research_Data_DRI24.csv) that is now on a public site that is designed to be widely accessible. Would we consider this data set, "public" date from our understanding of the general term "public"?
-
 For guidelines and working definitions of "human", "public", and "personhood" see [the 2012 Ethical Decision-Making and Internet Research report by the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf).
 
 ## Data and Labor
