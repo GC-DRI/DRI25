@@ -232,7 +232,7 @@ As mentioned in the Command Line workshop, proprietary software is owned by the 
 
 ## What forms of data do you use?
 
-![A bar graph of the types of data DRI Winter 2024 participants use in their research.](/images/data-ethics/DRI24-participant-research-data-type.png)
+
 
 
 ## Evaluate
