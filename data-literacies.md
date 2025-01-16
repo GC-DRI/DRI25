@@ -189,7 +189,6 @@ An illustration:
 
 ![A screenshot of the excel file of the moSmall dataset.](/images/data-ethics/moSmall-xlsx.png)
  
- 
 Sustainable formats are generally unencrypted, uncompressed, and follow an open standard. 
 
 
