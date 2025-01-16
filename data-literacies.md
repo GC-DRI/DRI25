@@ -1223,19 +1223,6 @@ __6. Tiny data format only allows one value per cell. (Select one of the followi
 
 Revisit Lesson <Link page='21' workshop='data-literacies'>Data Structures: Tidy Data</Link> to learn more.
 
-# Theory to Practice
-
-Now that you've gained an understanding of some of the considerations around data and ethics, let's think a bit further about how you may apply some of what we have discussed in your work.  <!--Below the quiz segment you will find some additional readings that dives deeper into some of the topics that were covered in our lessons. If you would like, you can also consider exploring the "Projects or Challenges to Try" to see how you might apply what you've learnt.<-->
-
-We invite you to consider the ethical implications of the dataset of [Refugee Arrivals](https://raw.githubusercontent.com/GC-DRI/DRI24/main/uploads/refugee-arrivals-by-destination.csv) that you will learn to manipulate in the Pandas workshop. This dataset is adapted from the one compiled by Jeremy Singer-Vine for his 2015 BuzzFeed article [“Where U.S. Refugees Come From — And Go — In Charts.”](https://www.buzzfeednews.com/article/jsvine/where-us-refugees-come-from-and-go-in-charts#.vooNwy74jO) which includes information on refugee arrivals to the United States between 2005 and 2015 from the Department of State’s Refugee Processing Center." 
-
-Some questions to ask in preparation are:
-- Who collected this data? 
-- How and why is this data being collected? 
-- What assumptions are baked into this data? 
-- What consequences does this data have in the world? 
-- What does this data tell us about our world?
-
 <!--### Review your knowledge: 6 questions from the lessons
 
 TODO: fix links to pages of lessons
