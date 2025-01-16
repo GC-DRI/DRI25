@@ -929,6 +929,8 @@ We can consider this [level of impact](https://raw.githubusercontent.com/DHRI-Cu
 2. Could your research or project be used to justify or facilitate potentially harmful control or surveillance?
 3. Could it influence social or political discourse? Modes of profit?
 
+In addition, we must also consider the environmental impacts of our research. In the broadest sense, this requires us to think about how we can limit the footprint of everyday research practices (e.g., buying better and less, optimizing the use of digital technology, limiting travel and work-related trips, etc.), and how we can work from the "do no harm" principle. In biomedical research this means ensuring that the benefits of research are maximized while risk is minimized, and research-related risks to the environment should be identified in order for them to be eliminated or reduced. For more information, review ["Integrating environmental issues into research practices--An ethical responsibility" by the CNRS Ethics Committee](https://comite-ethique.cnrs.fr/wp-content/uploads/2023/01/OPINION-2022-43.pdf)
+
 <!--We are visiting this impact between discussing cleaning data and analyzing data, because as we discussed earlier most of our reflections and decision making happen at these two stages.<--> 
 
 # Stages of Data: Analyzed
