@@ -604,6 +604,8 @@ For example, The Graduate Center's [Data Management](https://libguides.gc.cuny.e
 
 For a thorough understanding of the impact of data management on our research and the ethical quandries that may arise from poor data management, please head over to Stephen Zweibel's interactive website [Data Management](https://zweibel.net/presentations/data.html#/).
 
+LOCKSS Lots of Copies Keeps Stuff Safe
+At the outset of your project, it's also important to create a strategy for backing up your work! You can use the principle of LOCKSS (Lots of Copies Keeps Stuff Safe). Where will you back up your work, and how often? Will you backups be automatic or do you need to schedule reminders? 
 
 ## Level of Impact II: Politics of Knowledge Production and Categorization
 
