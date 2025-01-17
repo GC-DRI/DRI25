@@ -613,6 +613,8 @@ For a thorough understanding of the impact of data management on our research an
 
 "At another level, we can ask how our methods of organizing data, analytical interpretations, or findings as shared datasets are being used—or might be used—**to build definitional categories or to profile particular groups** in ways that could impact livelihoods or lives. Are we contributing positive or negative categorizations?" ([Annette Markham, 2016](https://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/),emphasis added)
 
+![Image of Twitter/X post from Jenna Freedman](/images/freedman-twitter.png)
+
 For ethical considerations of the [impact of our knowledge production](https://raw.githubusercontent.com/DHRI-Curriculum/ethics/master/sections/impact2cont.md),it can be helpful to think through the concepts of Gramsci's hegemony, Foucault's discourse, and  Hall's "policing the crisis". An example of the politics of power production can be found in Julia Angwen's and Jeff Larson's, ["Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) article.
 
 [Decisions on the categories and boundaries scholars use shape our:](https://raw.githubusercontent.com/DHRI-Curriculum/ethics/master/sections/impact2cont.md)
