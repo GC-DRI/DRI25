@@ -617,7 +617,7 @@ For a thorough understanding of the impact of data management on our research an
 ![Image of Twitter/X post from Jenna Freedman](/images/data-ethics/freedman-twitter.png)
 
 
-For ethical considerations of the [impact of our knowledge production](https://raw.githubusercontent.com/DHRI-Curriculum/ethics/master/sections/impact2cont.md),it can be helpful to think through the concepts of Gramsci's hegemony, Foucault's discourse, and  Hall's "policing the crisis". An example of the politics of power production can be found in Julia Angwen's and Jeff Larson's, ["Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) article.
+For ethical considerations of the [impact of our knowledge production](https://raw.githubusercontent.com/DHRI-Curriculum/ethics/master/sections/impact2cont.md), it can be helpful to think through the concepts of Gramsci's hegemony, Foucault's discourse, and  Hall's "policing the crisis". An example of the politics of power production can be found in Julia Angwen's and Jeff Larson's, ["Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) article.
 
 [Decisions on the categories and boundaries scholars use shape our:](https://raw.githubusercontent.com/DHRI-Curriculum/ethics/master/sections/impact2cont.md)
 - Datasets
