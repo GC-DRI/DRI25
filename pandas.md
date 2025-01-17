@@ -29,7 +29,7 @@ prerequisites:
         recommended: true
 
 instructors: 
-    - 'Rebecca Krisel'
+    - 'Zachary Lloyd'
 
 authors:
     - 'Rebecca Krisel'
