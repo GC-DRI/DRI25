@@ -901,7 +901,7 @@ Often this is decided before the cleaning process begins, perhaps after some qui
 Usually the IRB desires that the data is destroyed. Removed data can remain in the original "raw" file. The file that is cleaned is usually a duplicate file to allow for recovery in case a researcher made a poor decision in the process of cleaning.
 </Secret>
 
-## Level of Impact III: Social, Political, and Economic Impacts of Projects or Research
+## Level of Impact III: Social, Political, Economic (and Environmental) Impacts of Projects or Research
 
 ![Image of a water rippling.](/images/data-ethics/ripple.jpg)
 
