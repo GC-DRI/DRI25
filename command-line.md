@@ -935,7 +935,7 @@ With larger amounts of data, it might take some seconds to run each command befo
 What is the output?
 
 <Secret>
-The total of words in the file should be 2,298,575.
+The total of words in the file should be 2,298,911.
 </Secret>
 
 ### The symbol `-`
@@ -978,16 +978,16 @@ We didn't tell you this before, but there are duplicate lines in our data! Three
 
 ```console
 $ cat nypl_items.csv | wc -l
-100004
+100001
 ```
 
-This tells us there are 100,004 lines in our file. 
+This tells us there are 100,001 lines in our file. 
 
 To find and remove duplicate lines, we can use the `uniq` command combined via `|` with other commands we used before. Let's try it out:
 
 ```console
 $ cat nypl_items.csv | uniq | wc -l
-100001
+99999
 ```
 
 The count went down by three because the `uniq` command removed the duplicate lines. But which lines were duplicated?
