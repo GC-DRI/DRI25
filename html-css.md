@@ -34,7 +34,7 @@ prerequisites:
         required: true
 
     - Visual Studio Code: 
-        description: (Strongly recommended) The majority of the exercises in this workshop will be conducted in an in-brower code editor. However, advanced pracictice of these skills will require editing code on your computer. To edit HTML and CSS on your computer, you can use any plain text editor, but for we strongly suggest you download and install [Visual Studio Code](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md) ("VS Code") for the more advanced exercises at the end of the workshop. It is recommended that you also enable the [Live Server plugin](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/), but it is not necessary to follow the exercises.
+        description: (Strongly recommended) The majority of the exercises in this workshop will be conducted in an in-brower code editor. However, advanced practice of these skills will require editing code on your computer. To edit HTML and CSS on your computer, you can use any plain text editor, but for we strongly suggest you download and install [Visual Studio Code](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md) ("VS Code") for the more advanced exercises at the end of the workshop. It is recommended that you also enable the [Live Server plugin](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/), but it is not necessary to follow the exercises.
 
 readings:
     - "[Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html) by Tim Berners-Lee. This concept paper, originally published in 1989 and converted to HTML format here, is the proposal that led to HTML. It is a foundational document of the Internet."
@@ -186,20 +186,13 @@ The **head section** contains basic information about the file such as the title
   
 The **body section** contains the content of the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page.
 
+![Screenshot of the HTML template, annotated](/images/html-css/html-template-annotated.png)
+
+
 ## Activity
-
-<Info> __Tip:__
-If you have not already installed Visual Studio Code, you can [follow our installation guide here](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md). You can also click the following links for corresponding operation system specific installation instructions: [macOS](https://code.visualstudio.com/docs/setup/mac), [Windows](https://code.visualstudio.com/docs/setup/windows), [Linux](https://code.visualstudio.com/docs/setup/linux). You may also want to enable the [Live Server plugin](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/).
-</Info>
-
 
 In this activity we aim to complete the following tasks (instructions follow):
 
-<!-- TODO: Test flow of this, possibly re-order steps -->
-
-<!-- TODO: Move this section further back -->
-
-<!-- 1. Create a coding environment to store files locally on your computer. -->
 
 1. Use the in-browser **Code Editor** to enter an HTML template.
 
@@ -207,11 +200,6 @@ In this activity we aim to complete the following tasks (instructions follow):
 
 3. Add new text to the code.
 
-<!-- 3. Download code as an HTML file.
-
-4. Move the file to your coding environment.
-
-5. View the file output and analyze the source code, and the rendered text. -->
 
 To do this, we'll follow these steps. We'll  use the code editor in this website to create the initial file. Then, we'll explore how the code we entered renders formatted text in the simulated browser output.
 
@@ -796,8 +784,9 @@ The Internet is increasingly filled with AI-generated media, incuding text, code
 
 In this activity we will practice the skills we just learned, link an image in your existing HTML code. We will use the in-browser code editor.
 
-<!-- <Info>__Tip:__
-From here out, is becomes increasingly challenging to use the in-browser code editor, so it is advised that you use your text editor for the remainder of this lesson on HTML. You can resume scaffolding from the code editor when we begin exploring CSS.
+
+<!-- <Info> __Tip:__
+If you have not already installed Visual Studio Code, you can [follow our installation guide here](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md). You can also click the following links for corresponding operation system specific installation instructions: [macOS](https://code.visualstudio.com/docs/setup/mac), [Windows](https://code.visualstudio.com/docs/setup/windows), [Linux](https://code.visualstudio.com/docs/setup/linux). You may also want to enable the [Live Server plugin](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/).
 </Info> -->
 
 Here we will use an image linked to this lesson's source code on Github.
@@ -825,13 +814,6 @@ You can also control the display size of the image by adding `style`. These are 
 1. Using the code above as a reference, enter the code for your home page, with a link to an image, in the `CODE EDITOR`.
 
 2. View the output. Do you see an image?
-
-
-<!-- TODO: move to end
-
-3. Open and save the image, then download it and move it to your `htmlpractice` folder.
-
-4. Add the image into your `index.html` file using **VS Code**, re-save the file, and re-open or refresh the page in your browser. Your image should now appear on the page. -->
 
 For reference, here is the modified boiler story.
 
@@ -928,10 +910,13 @@ While code editor apps usually auto-indents and auto-completes tags, they are no
 
 ![an image of the words "LET'S GO!" in bright gold colors](/images/html-css/challenge-letsgo.jpg)
 
+<Info> __Tip:__
+If you have not already installed Visual Studio Code, you can [follow our installation guide here](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md). You can also click the following links for corresponding operation system specific installation instructions: [macOS](https://code.visualstudio.com/docs/setup/mac), [Windows](https://code.visualstudio.com/docs/setup/windows), [Linux](https://code.visualstudio.com/docs/setup/linux). You may also want to enable the [Live Server plugin](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/).
+</Info>
 
 In this major challenge, we will begin creating a "small" website, which you can use as the starting point for a portfolio of your digital projects and academic work. Using the tags we've just reviewed, and two additional ones (see below), we will make a barebones website that provides information about yourself (or a fictional character). Parim Satyal's website on [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/) may provide some inspiration. You may also want to look at GCDI Digital Fellow Sam O'Hana's [website](https://www.samohana.com/), which is written in HTML.
   
-Using the in-browser code-editor to create a '[landing page](https://en.wikipedia.org/wiki/Landing_page)' for your website. Add HTML to your page file, using the template from previous activities, then start to add content to your page.
+Using the in-browser code editor to create a '[landing page](https://en.wikipedia.org/wiki/Landing_page)' for your website. Add HTML to your page file, using the template from previous activities, then start to add content to your page.
 
 This page should include the following component:
 
@@ -1213,8 +1198,6 @@ Option 3, external styling, is preferred by most web developers because __it's m
 
 ## Challenge: Activity
 
-<!-- TODO: Adapt for code editor? How to work around internal built into export?-->
-
 Create a stylesheet for your html file. You can try this with the code editor here.
 
 1. Click the `OPEN CODE EDITOR` button.
@@ -1235,9 +1218,13 @@ Create a stylesheet for your html file. You can try this with the code editor he
 
 3. Explore how this changes your text.
 
+4. Change the color for **`h1`** to `transparent`.
+
+5. See what changed?
 
 
-<!-- TODO: Migrate this
+
+<!-- TODO: Migrate this to end?
 
 3. Click the `Download All Files` button.
 
@@ -1571,7 +1558,7 @@ Below is a list of **useful properties** that can be modified with CSS, compiled
 
 ### Color
 
-<!-- TODO: Add imiages of colors? -->
+<!-- TODO: Add images of colors? -->
 
 Determines text color. Can be a word or a hex value, like `#FFFFFF`:
 
@@ -1675,10 +1662,9 @@ For this challenge:
 - Center your image on your page.
 - [Shape up your navigation bar.](https://github.com/DHRI-Curriculum/html-css/blob/v2.0/sections/_navbar-hint.md)
 
-<!-- TODO: move this further back? Make it a tip? -->
 
 <Info>__Tip:__
-When editing HTML and CSS documents in a text editor or on your computer, the HTML file will need to link to the external stylesheet. You must link it to all HTML documents that you want this styling to apply to. You can do so with the `<link>` tag:
+When editing HTML and CSS documents in a text editor or on your computer, the HTML file will need to link to the external stylesheet in order to be associated. You must link it to all HTML documents that you want this styling to apply to. You can do so with the `<link>` tag:
 
 ```html
 <link rel="stylesheet" type="text/css" href="style.css" />
@@ -1738,7 +1724,7 @@ The instructions for this section give you the steps to complete this task using
 
 -->
 
-Here we will create a coding environment on our computer's desktop, using your computer's GUI: a folder named `projects`, which a sub-folder named `htmlpractice`. Command line instructions are also listed below. We will then download the files from the code editor, locate them in your Downloads folder, and move them to your coding environment.
+Here we will create a coding environment on our computer's desktop, using your computer's GUI: a folder named `projects`, which a sub-folder named `htmlpractice`. Command line instructions are also listed below. We will then download the files from the code editor, locate them in your Downloads folder, and move them to your coding environment. We will then open the `index.html` file.
 
 1. Navigate to your `Desktop` folder.
 
@@ -1800,7 +1786,7 @@ In GUI, open your `projects` folder, open your secondary menu, and select `New F
 
 ![Screenshot of 'dowload all files' button](/images/html-css/download-button-instructions.png)
 
-6. Locate them (`index.html`, `style.css`, and `script.js`)
+6. Open your **Downloads** folder to locate the the files (`index.html`, `style.css`, and `script.js`).
 
 <Info>__Tip__:
 The export generates a `script.js` file, which is for JavaScript. We don't use this in this workshop, but similar to the separation of concerns principle with external CSS, a separate JavaScript file is industry standard for web development.
@@ -1808,7 +1794,12 @@ The export generates a `script.js` file, which is for JavaScript. We don't use t
 
 7. Move `index.html`, `style.css`, and `script.js` to your `htmlpractice` folder.
 
-8. Open index folder
+<Info>__Tip__:
+```console
+$ mv -t /[USER]/desktop/projects/htmlpractice index.html style.css script.js
+```
+
+</Info>
 
 <!-- TODO: finish this activity -->
 
