@@ -67,15 +67,13 @@ resources:
 ---
 
 <!-- TODOs: -->
-<!-- Review and fix all internal links  -->
-<!-- Migrate Command Line on-computer activities to end of lesson, simplify flow -->
-<!-- Update screenshots of any browswer activity to in-browser code editor and output -->
-<!-- Practice for 1 hour lesson, focused on in-browser editor -->
+<!-- Clean up remaining commented out code -->
 
 # Getting Started with HTML and CSS
 
 Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between navigate through information via links, traveling from page to page until we find what we need. Our journey through hypertext is unique to our experience. Information retrieval systems such as encyclopedia indexes and library cataloging systems pre-date digital navigation tools such as links, but follow the same logic. With **hypertext**, we can explore linked information in non-linear paths. What may be less obvious about websites is that, fundamentally **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML. HTML and CSS of are **interoperable**, meaning they can be used in tandem with each other.
   
+![A graph of the market share of HTML of websites in 2024](/images/html-css/html-w3-market-share.png)
 
 
 <Info>**Fun fact**: More than 96.6% of all websites (whose markup language we know) use HTML
