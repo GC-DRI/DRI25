@@ -951,8 +951,8 @@ To access these files, you'll want to navigate to your `Downloads` folder.
 
 Using GUI:
 
-- For MacOS, click on the Finder button on your task bar, then press <kbd>command</kbd>, <kbd>option</kbd>, and <kbd>L</kbd> together.
-- For Windows, select File Explorer from the taskbar, or press the <kbd>Windows logo key</kbd> and <kbd>E</kbd> together. Under Quick access, select `Downloads`.
+- For MacOS, click on the Finder button on your task bar, then press **<kbd>command</kbd>**, **<kbd>option</kbd>**, and **<kbd>L</kbd>** together.
+- For Windows, select File Explorer from the taskbar, or press the **<kbd>Windows logo key</kbd>** and **<kbd>E</kbd>** together. Under Quick access, select **`Downloads`**.
 
 
 
@@ -1367,7 +1367,7 @@ Note the different syntax being used to select items for for styling with rule s
 
 <!--TODO: Adapt to code editor? Same challenge of internal CSS export in 'webpage.html'-->
 
-Copy and paste the CSS rules from <Link workshop='html-css' page='36'>`the previous section`</Link> into the code editor, and see what happens. See what happens?
+Copy and paste the CSS rules from <Link workshop='html-css' page='35'>`the previous section`</Link> into the code editor, and see what happens. See what happens?
   
 ```css
 h1 {
@@ -1540,7 +1540,7 @@ Note that it's possible to assign more than one class to an element—just leave
 
 <Info>__Tip:__
 
-If you run into an error, be sure to _check your punctuation_. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc. See the <Link workshop='html-css' page='47'>`Troubleshooting`</Link> section for more information on common issues.
+If you run into an error, be sure to _check your punctuation_. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc. See the <Link workshop='html-css' page='46'>`Troubleshooting`</Link> section for more information on common issues.
 </Info>
 
 ## Evaluation
@@ -1565,8 +1565,6 @@ Do you remember the glossary terms from this section?
 Below is a list of **useful properties** that can be modified with CSS, compiled by Digital Fellow [Patrick Smyth](http://smythp.com). There are also [CSS cheatsheets](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf) available online.
 
 ### Color
-
-<!-- TODO: Add images of colors? -->
 
 Determines text color. Can be a word or a hex value, like `#FFFFFF`:
 
@@ -1674,9 +1672,7 @@ For this challenge:
 <Info>__Tip:__
 When editing HTML and CSS documents in a text editor or on your computer, the HTML file will need to link to the external stylesheet in order to be associated. You must link it to all HTML documents that you want this styling to apply to. You can do so with the `<link>` tag:
 
-```html
-<link rel="stylesheet" type="text/css" href="style.css" />
-```
+**`<link rel="stylesheet" type="text/css" href="style.css" />`**
 
 This will tell your HTML document to apply the style rules from the text file named `style.css` in the same folder. Typically this is placed in the `<head>` section.
 
@@ -1853,7 +1849,7 @@ __1. True or False: Classes are used to create categories of related elements, I
 - False
 </Quiz>
 
-Revisit lesson <Link workshop='html-css' page='40'>`Classes and IDs`</Link> to learn more.
+Revisit lesson <Link workshop='html-css' page='39'>`Classes and IDs`</Link> to learn more.
 
 __2. Which one of the following options is a relative link? (Select one of the following)__
 
@@ -1923,7 +1919,7 @@ __6. How do we associate a CSS file with an HTML page? (Select one of the follow
 - By putting the CSS file in the same folder as the HTML page.
 </Quiz>
 
-Revisit lesson <Link workshop='html-css' page='36'>`Rule Sets`</Link> to learn more.
+Revisit lesson <Link workshop='html-css' page='35'>`Rule Sets`</Link> to learn more.
 
 __7. Which one of the following statements is correct: (Select one of the following)__
 
