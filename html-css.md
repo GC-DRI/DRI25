@@ -424,7 +424,11 @@ The `<p>` tags denote **paragraphs**, or blocks of text.
 </html>
 ```
 
-Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes. The title doesn't appear on the page, but instead elsewhere in the browser when the page is displayed. For example, in Chrome, the title appears on the tab above the navbar.
+Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes. The title doesn't appear on the page, but instead elsewhere in the browser when the page is displayed. So in the `code editor` it does not appear, but when rendered by a browser, such as Chrome, the title appears on the tab above the navbar.
+
+![Screnshot of code in editor](/images/html-css/boilerstory-codeeditor.png)
+
+
 
 ![Image showing where the title appears in the Chrome web browser](/images/html-css/title.png)
 
@@ -1716,15 +1720,8 @@ To code locally on your computer, you'll want to start with a coding environment
 
 ## Activity: Creating a Coding Environment
 
-<!-- TODO: Move this, simplify it
 
-<Info:>__Command Line:__
-The instructions for this section give you the steps to complete this task using GUI and Command Line. You only need to do one approach. Use whatever you feel comfortable with. If you choose the Command Line approach, you will first need to open your terminal: **On macOS**, press `⌘ + space` (**command** and **space**) to open up `Spotlight Search`, then type `Terminal`. Click the `Terminal` icon. **On Windows**, press `Windows + R` (**Windows** and **R**) to open up the **Run** dialogue box. Then type `wt` and click `Ok`.
-</Info>
-
--->
-
-Here we will create a coding environment on our computer's desktop, using your computer's GUI: a folder named `projects`, which a sub-folder named `htmlpractice`. Command line instructions are also listed below. We will then download the files from the code editor, locate them in your Downloads folder, and move them to your coding environment. We will then open the `index.html` file.
+Here we will create a coding environment on our computer's desktop, using your computer's GUI: a folder named `projects`, which a sub-folder named `htmlpractice`. Command line instructions are also listed below. We will then download the files from the code editor, locate them in your Downloads folder, and move them to your coding environment. We will then open the `index.html` file and view the source code.
 
 1. Navigate to your `Desktop` folder.
 
@@ -1732,14 +1729,6 @@ Here we will create a coding environment on our computer's desktop, using your c
 
     For Windows, press `windows key` and `D` simultaneously.
 
-<!-- TODO: Add screenshots or keyboard images -->
-
-<Info>__Command Line:__
-
-    ```console
-    $ cd ~/Desktop/
-    ```
-</Info>
 
 2. Create the `projects` folder.
 
@@ -1747,23 +1736,9 @@ In GUI form, you will right-click and select `New Folder`. You will then rename 
 
 ![Screenshot of right-click menu, with 'new folder' highlighted](/images/html-css/rightclick-new-folder.png)
 
-<Info>__Command Line:__
-
-    ```console
-    $ mkdir projects
-    ```
-</Info>
-
 3. Navigate to the `projects`folder. For GUI you will click the icon on your desktop to open it up.
 
 ![Screenshot projects folder](/images/html-css/projects.png)
-
-<Info>__Command Line:__
-
-    ```console
-    $ cd projects
-    ```
-</Info>
 
 4. Create the `htmlprojects` subfolder.
 
@@ -1774,13 +1749,6 @@ In GUI, open your `projects` folder, open your secondary menu, and select `New F
 ![Screenshot of the right-click menu with 'Rename' highlighted](/images/html-css/rename.png)
 
 ![Screenshot of projects folder with htmlpractice sub-folder](/images/html-css/projects-htmlpractice.png)
-
-<Info>__Command Line__:
-
-    ```console
-    $ mkdir htmlpractice
-    ```
-</Info>
 
 5. Download your new files by clicking the `Dowload All Files` button.
 
@@ -1794,16 +1762,19 @@ The export generates a `script.js` file, which is for JavaScript. We don't use t
 
 7. Move `index.html`, `style.css`, and `script.js` to your `htmlpractice` folder.
 
-<Info>__Tip__:
-```console
-$ mv -t /[USER]/desktop/projects/htmlpractice index.html style.css script.js
-```
-
 </Info>
 
-<!-- TODO: finish this activity -->
+8. Open `index.html` with your browser.
 
-<!-- TODO: add more images -->
+9. View the source code following the steps we practiced earlier:
+
+- Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>control</kbd> button then click the track pad).
+
+- Select `View Page Source` from the dropdown menu.
+
+![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](/images/html-css/index_blank_viewsource.png)
+
+
 
 # Making Your Website Public
 
