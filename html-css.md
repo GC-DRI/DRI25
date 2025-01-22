@@ -758,7 +758,11 @@ The same rules apply here as with the `href` attribute: __if the image is not lo
   
 ![Chrome broken image icon](/images/html-css/broken.png)
   
-**Note:** __Some sites use a lot of images__. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your `index.html` file, and `scream.jpeg` is in that folder, you'd change the void tag above to `<img src="images/scream.jpeg" />`.
+**Note:** __Some sites use a lot of images__. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your `index.html` file, and `scream.jpeg` is in that folder, you'd change the void tag above to 
+
+```html
+`<img src="images/scream.jpeg" />`.
+```
 
 ## Making Images Accessible
 
