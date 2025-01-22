@@ -604,15 +604,15 @@ For other instances, such as referring to pages or information on external sites
 
 Here, we will use the in-browser code editor to create a simple web page, which we will then examine.
 
-1. Using the `CODE EDITOR`, make your page the 'Home' page.. Use the same HTML template from the previous activity, but change the text in the `<h1>` element to "Home."
+1. Using the `CODE EDITOR`, make your page the 'Home' page. Use the same HTML template from the previous activity, but change the text in the `<h1>` element to "Home."
 
-2. Add a relative link to `about.html`.
+2. Add a relative link to your page. This will go in the paragraph block.
 
 ```html
 <a href="about.html">About</a>
 ```
 
-2. Add an absolute link to a website address. You can use this link below, to the Graduate Center Digital Initiatives' CUNY Academic Commons page, or to any link of your choosing.
+2. Add an absolute link to a website address to your page. You can use this link below, to the Graduate Center Digital Initiatives' CUNY Academic Commons page, or to any link of your choosing. This will also go in the paragraph block.
 
 ```html
 <a href="https://gcdi.commons.cuny.edu">Graduate Center Digital Initiatives</a>
@@ -951,8 +951,8 @@ To access these files, you'll want to navigate to your `Downloads` folder.
 
 Using GUI:
 
-- For MacOS, click on the Finder button on your task bar, then press <kbd>command</kbd> <kbd>option</kbd> and <kbd>L</kbd> together.
-- For Windows, select File Explorer from the taskbar, or press the <kbd>Windows logo key</kbd> + <kbd>E</kbd>. Under Quick access, select `Downloads`. -->
+- For MacOS, click on the Finder button on your task bar, then press <kbd>command</kbd>, <kbd>option</kbd>, and <kbd>L</kbd> together.
+- For Windows, select File Explorer from the taskbar, or press the <kbd>Windows logo key</kbd> and <kbd>E</kbd> together. Under Quick access, select `Downloads`.
 
 
 
