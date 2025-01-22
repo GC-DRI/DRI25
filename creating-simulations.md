@@ -20,11 +20,14 @@ prerequisites:
     - Intro to Python: 
         description: (required) This workshop relies heavily on concepts from the Python workshop, and having a basic understanding of how to use the commands discussed in the workshop will be central for anyone who wants to learn about higher-level Python concepts.
         required: true
-    - Data Ethics: 
+    - Data Literacy: 
         description: (recommended) This workshop will give you a basis for thinking through the ethical considerations of your programming projects.
         recommended: true
 
 authors:
+    - 'Zachary Lloyd'
+
+instructors: 
     - 'Zachary Lloyd'
 
 readings:
