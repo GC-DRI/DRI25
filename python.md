@@ -58,7 +58,7 @@ projects:
 resources:
     - Python resource recommendations: 
         description: See this post by the Digital Fellows for some useful resources for building your Python skills.
-        link: https://curriculum.dhinstitutes.org/shortcuts/workshop/python
+        link: https://gcdi.commons.gc.cuny.edu/2016/09/23/python-resources/
 
 goals:
     - description: 'In this workshop, you will learn to:'
