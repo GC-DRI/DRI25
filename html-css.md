@@ -426,7 +426,7 @@ The `<p>` tags denote **paragraphs**, or blocks of text.
 
 Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes. The title doesn't appear on the page, but instead elsewhere in the browser when the page is displayed. So in the `code editor` it does not appear, but when rendered by a browser, such as Chrome, the title appears on the tab above the navbar.
 
-![Screnshot of code in editor](/images/html-css/boilerstory-codeeditor.png)
+![Screenshot of code in editor](/images/html-css/boilerstory-codeeditor.png)
 
 
 
