@@ -74,14 +74,20 @@ resources:
 
 # Getting Started with HTML and CSS
 
-Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between navigate through information via links, traveling from page to page until we find what we need. Our journey through hypertext is unique to our experience. Information retrieval systems such as encyclopedia indexes and library cataloging systems pre-date digital navigation tools such as links, but follow the same logic. With **hypertext**, we can explore linked information in non-linear paths. What may be less obvious about websites is that, fundamentally **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML.
+Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between navigate through information via links, traveling from page to page until we find what we need. Our journey through hypertext is unique to our experience. Information retrieval systems such as encyclopedia indexes and library cataloging systems pre-date digital navigation tools such as links, but follow the same logic. With **hypertext**, we can explore linked information in non-linear paths. What may be less obvious about websites is that, fundamentally **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML. HTML and CSS of are **interoperable**, meaning they can be used in tandem with each other.
   
-<Info>**Fun fact**: More than 90% of all websites (whose markup language we know) use HTML
-[(w3techs.com)](https://w3techs.com/technologies/details/ml-html/all/all).</Info>
+
+
+<Info>**Fun fact**: More than 96.6% of all websites (whose markup language we know) use HTML
+[(w3techs.com)](https://w3techs.com/technologies/details/ml-html_any). A recent, global study of HTML use is [The State of HTML 2024 Survey](https://2024.stateofhtml.com/en-US).</Info>
 
 ### Hypertext Markup Language (HTML)
 
 **HTML** is a markup language used to write web-based documents. It enables us to provide web browsers with information about the _content_ of a document. We can, for example, indicate that some part of our document is a paragraph, image, heading, or link. The browser uses this information when displaying the document for users.
+
+### Hypertext
+
+**Hypertext** is text displayed on an electronic device (such as a computer screen) which contains references (hyperlinks) to other texts and files. This means that the viewer can navigate through those links, in a non-linear fashion, following the directions of the links. Hypertext is one of the key concepts underlying the Internet.
 
 ### Markup Language vs. Programming Language
 
@@ -99,13 +105,11 @@ Fundamentally, then, a script or program is *a set of instructions given to the 
 
 **CSS** is usually used in conjunction with HTML, and was developed by [Håkon Wium Lie](https://www.wiumlie.no/en) in 1994 to add more control over display. Prior to CSS's introduction, websites were often displayed in different styles depending upon the web browser used, the computer's monitor, or other factors external to the code itself.
 
-HTML tells the browser what the different parts of a document _are_. CSS tells the browser what the parts of the document should _look like_. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browser applies CSS rules to a document. The __"style sheets"__ refers to print publishing practices of having uniform styles and standards, such as used in American Pscyhological Association, Chicago, and Modern Language Association formatting guidelines. They are __"cascading"__ because more specific rules overwrite less specific rules.
+HTML tells the browser what the different parts of a document _are_. CSS tells the browser what the parts of the document should _look like_. Because they are interoparable langages, they can work together. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browser applies CSS rules to a document. The __"style sheets"__ refers to print publishing practices of having uniform styles and standards, such as used in American Pscyhological Association, Chicago, and Modern Language Association formatting guidelines. They are __"cascading"__ because more specific rules overwrite less specific rules.
 
 ### Where Does the Internet Come In?
 
 Together, **HTML** and **CSS** can be used to write and style a website using a text editor (such as Visual Studio Code) directly from your computer. No internet access needed.
-
-<!-- TODO: fix internal link (currently broken)-->
 
 However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss <Link workshop='html-css' page='50'>`how to get your website from your local computer onto the internet`</Link>.
 
@@ -145,7 +149,7 @@ Do you remember the glossary terms from this section?
 
 ![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](/images/html-css/index_blank_viewsource.png)
 
-### What You Are Seeing
+### What You Are Seeing?
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
 
