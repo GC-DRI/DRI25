@@ -600,7 +600,6 @@ For other instances, such as referring to pages or information on external sites
 
 ## Activity
 
-<!-- TODO: simplify this to in-browser activity -->
 
 Here, we will use the in-browser code editor to create a simple web page, which we will then examine.
 
@@ -612,10 +611,10 @@ Here, we will use the in-browser code editor to create a simple web page, which 
 <a href="about.html">About</a>
 ```
 
-2. Add an absolute link to a website address to your page. You can use this link below, to the Graduate Center Digital Initiatives' CUNY Academic Commons page, or to any link of your choosing. This will also go in the paragraph block.
+3. Add an absolute link to a website address to your page. You can use this link below, to the Graduate Center Digital Initiatives' CUNY Academic Commons page, or to any link of your choosing. This will also go in the paragraph block.
 
 ```html
-<a href="https://gcdi.commons.cuny.edu">Graduate Center Digital Initiatives</a>
+<a href="https://gcdi.commons.gc.cuny.edu">Graduate Center Digital Initiatives</a>
 ```
 
 For reference, here is the updated HTML template for this file:
