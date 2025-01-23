@@ -24,8 +24,7 @@ prerequisites:
         recommended: true
 
 instructors: 
-    - 'Stephen Zweibel'
-    - 'Leanne Fan'
+    - 'Parisa Setayesh'
 
 authors:
     - 'Kalle Westerling'
@@ -41,7 +40,7 @@ editors:
     - 'Stephen Zweibel'
 
 readings:
-    - Want to learn programming, but not convinced that the Python language is the right language? Check out [Five Reasons Why Learning Python Is The Best Decision](https://medium.com/datadriveninvestor/)
+    - Want to learn programming, but not convinced that the Python language is the right language? Check out [Reasons why you should learn Python](https://www.geeksforgeeks.org/reasons-why-you-should-learn-python/)
     - "Some concrete ideas for how to use Python: [What Can I Do With Python?](https://realpython.com/what-can-i-do-with-python/)"
 
 ethical considerations:
@@ -51,15 +50,15 @@ ethical considerations:
 projects:
     - The NEH Impact Index:
         description: Built by former Digital Fellow Patrick Smyth, The NEH Impact Index makes visible the distribution of funds by National Endowment for the Humanities across the United States. The website uses python to map projects, communities, and cultural institutions who have received NEH support. You can check out the code on Github.
-        link: http://www.nehimpact.org/about
+        link: https://gcdi.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
     - Mapping Arts NYC: 
         description: Mapping Arts NYC, created in 2019 by the Graduate Center’s Data for Public Good fellows, “is a project that explores the geography and representation of arts and culture in New York City over time.” It includes a number of Python scripts written to clean and make sense of all the data.
         link: http://gcdiprojects.org/MappingArtsNYC/
         
 resources:
-    - Digital Fellows’ Python Cheat Sheet: 
-        description: See the Digital Fellows’ Python Cheat Sheet for handy commands that we cover in this workshop.
-        link: https://curriculum.dhinstitutes.org/shortcuts/workshop/python
+    - Python resource recommendations: 
+        description: See this post by the Digital Fellows for some useful resources for building your Python skills.
+        link: https://gcdi.commons.gc.cuny.edu/2016/09/23/python-resources/
 
 goals:
     - description: 'In this workshop, you will learn to:'
